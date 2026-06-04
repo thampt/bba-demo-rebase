@@ -7,3 +7,5 @@ message = "commit2"
 console.log(message + ' +6');
 // code commit 7 branch main
 message = "commit 7"
+// code commit 3 branch feature/A
+console.log(message);
