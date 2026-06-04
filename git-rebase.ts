@@ -5,3 +5,5 @@ message = "commit2"
 
 // code commit 6 branch main
 console.log(message + ' +6');
+// code commit 7 branch main
+message = "commit 7"
