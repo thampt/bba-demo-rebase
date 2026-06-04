@@ -9,3 +9,5 @@ console.log(message + ' +6');
 message = "commit 7"
 // code commit 3 branch feature/A
 console.log(message);
+//code commit 4 branch feature/A
+message = "commit 4"
