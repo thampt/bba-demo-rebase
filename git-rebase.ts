@@ -11,3 +11,5 @@ message = "commit 7"
 console.log(message);
 //code commit 4 branch feature/A
 message = "commit 4"
+//code commit 5 branch feature/A
+console.log(message + '5')
